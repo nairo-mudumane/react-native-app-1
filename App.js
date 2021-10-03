@@ -29,6 +29,6 @@ const styles = StyleSheet.create({
   },
   img: {
     width: '100%',
-    resizeMode: 'cover',
+    resizeMode: 'contain',
   },
 });
